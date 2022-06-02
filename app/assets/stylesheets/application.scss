@@ -28,6 +28,16 @@ h4 {
 form.button_to {
   display: inline;
 }
+.Counts {
+  margin-top: 20px;
+  padding: 0.25em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgba(0, 130, 29, 0.7);
+  font-weight: 700;
+  font-family: "Montserrat";
+}
 
 .hero {
   height: 75vh;
