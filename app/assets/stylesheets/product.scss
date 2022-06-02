@@ -16,7 +16,7 @@
       color: rgba(0, 130, 29, 1);
     }
   }
-
+ 
   .product-detail {
     display: grid;
     gap: 1.5em;
@@ -94,5 +94,13 @@
     color: rgba(0, 130, 29, 0.7);
     font-weight: 700;
     font-family: "Montserrat";
+  }
+}
+
+.order-show {
+  .order-detail {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
   }
 }
