@@ -39,10 +39,17 @@
               <%= link_to category.name, category, class: "nav-link" %>
             </li>
             <% end %>
-          <%# </ul>
-        </li> %>
-      </ul>
-      <a><%= link_to 'About us', 'about', class: "nav-link" %></a>
+            <a><%= link_to 'About us', 'about', class: "nav-link" %></a>
+            <%# </ul>
+            </li> %>
+            </ul>
+            <div class: "nav-link">
+              <% if current_user %>
+                Signed in as <%= current_user.name %>  <%= link_to 'Logout', '/logout'%>
+              <% else %>
+                <%= link_to 'Login', '/login' %> <%= link_to 'Signup', '/signup'%>
+              <% end %>
+            </div>
       <ul class="navbar-nav">
         <li class="nav-item dropdown">
           <a
