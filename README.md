@@ -12,7 +12,7 @@ Product's detail page
 ![Product Details page](https://github.com/Baila3/Jungle/blob/master/docs/Screen%20Shot%202022-06-08%20at%209.39.16%20PM.png)
 
 My cart page
-![Cart page](https://github.com/Baila3/Jungle/blob/master/docs/Screen%20Shot%202022-06-08%20at%209.39.16%20PM.png)
+![Cart page](https://github.com/Baila3/Jungle/blob/master/docs/Screen%20Shot%202022-06-08%20at%209.38.39%20PM.png)
 
 ## Setup
 
