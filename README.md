@@ -5,7 +5,14 @@ A mini e-commerce application built with Rails 6.1. This app is allows users to 
 ## Final Product
 Jungle Showcase
 
-![]
+Home page of the Jungle app
+![Main page](https://github.com/Baila3/Jungle/blob/master/docs/Screen%20Shot%202022-06-08%20at%209.38.04%20PM.png)
+
+Product's detail page
+![Product Details page](https://github.com/Baila3/Jungle/blob/master/docs/Screen%20Shot%202022-06-08%20at%209.39.16%20PM.png)
+
+My cart page
+![Cart page](https://github.com/Baila3/Jungle/blob/master/docs/Screen%20Shot%202022-06-08%20at%209.39.16%20PM.png)
 
 ## Setup
 
