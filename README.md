@@ -1,6 +1,6 @@
 # Jungle
 
-A mini e-commerce application built with Rails 6.1. This app is allows users to add a variety of plants to their carts and orders those plants. 
+A mini e-commerce application built with Rails 6.1. This app is allows users to add a variety of plants to their carts and order those plants. It runs on rails and uses rspec for testing. 
 
 ## Final Product
 Jungle Showcase
